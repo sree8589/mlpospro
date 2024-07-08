@@ -1,3 +1,4 @@
 env/
 DimondPricePrediction.egg-info/
 logs/
+mlruns/
