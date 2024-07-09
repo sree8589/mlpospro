@@ -28,7 +28,7 @@ class ModelEvaluation:
              model_path=os.path.join("artifacts","model.pkl")
              model=load_object(model_path)
 
-             #mlflow.set_registry_uri("")
+            #  mlflow.set_registry_uri("")
              
              logging.info("model has register")
 
