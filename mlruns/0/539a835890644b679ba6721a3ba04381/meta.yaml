@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopspro/mlpospro/mlruns/0/539a835890644b679ba6721a3ba04381/artifacts
+end_time: 1720535419058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 539a835890644b679ba6721a3ba04381
+run_name: carefree-roo-222
+run_uuid: 539a835890644b679ba6721a3ba04381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720535413600
+status: 3
+tags: []
+user_id: sree
